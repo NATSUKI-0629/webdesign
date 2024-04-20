@@ -493,7 +493,7 @@ Summary
 ---------------------------------------------------*/
 
 #summary {
-    background: url(img/bg.gif) repeat;
+    background: url(https://raw.githubusercontent.com/NATSUKI-0629/webdesign/NATSUKI-0629-patch-1/bg.gif) repeat;
     animation: fall 10s infinite linear;
     padding: 60px 0;
     margin-bottom: 120px;
